@@ -1,0 +1,13 @@
+{
+    "roles": {
+        "leader": "Leader",
+        "coLeader": "Co-Leader",
+        "admin": "Elder",
+        "member": "Member"
+    },
+    "types": {
+        "inviteOnly": "Invite only",
+        "closed": "Closed",
+        "open": "Anyone can join"
+    }
+}
