@@ -5,12 +5,15 @@ Clashtivity is a handy discord bot that allows you to view all kinds of Clash of
 ## Built With
 
 * [Discord](https://discord.gg) - The platform the bot is running on.
-* [NodeJS](https://nodejs.org/) - Managing the backend.
 * [Clash of Clans](https://clashofclans.com/) - The game the bot retrieves it's stats from.
+
+* [NodeJS](https://nodejs.org/) - Managing the backend.
+* [Axios](https://github.com/axios/axios) - NPM package for retrieving data from the API.
+* [Discord JS-Commando](https://www.npmjs.com/package/discord.js-commando) - NPM package for connecting with discord.
 
 ## Authors
 
-* **Guus van Meerveld** - *Initial work* - [Guus van Meerveld](https://github.com/Guusvanmeerveld)
+* **Guus van Meerveld (Xeeon)** - *Everything* - [Guus van Meerveld](https://github.com/Guusvanmeerveld)
 
 See also the list of [contributors](https://github.com/Guusvanmeerveld/Commands-Creator/graphs/contributors) who participated in this project.
 
